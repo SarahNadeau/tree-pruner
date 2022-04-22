@@ -1,6 +1,6 @@
 # Tree pruner
 
-Select a small, representative set of sequences off of a larger phylogenetic tree.
+Get a small, representative genome set from a large phylogenetic tree.
 
 This code selects sequences to represent the major clades of a phylogenetic tree.
 The aim is that a query isolate could be placed on a phylogeny of these representative sequences for a quick first-look at the putative origins of the isolate.
